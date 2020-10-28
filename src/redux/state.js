@@ -1,5 +1,11 @@
 export default {
     // Add user property here
+    user: [
+      {
+         username: 'user',
+         email: 'user@test.com'
+     }
+    ],
     cars: [
         {
            "id": 1,
